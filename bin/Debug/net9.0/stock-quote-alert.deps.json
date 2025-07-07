@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "stock-quote-alert/1.0.0": {
+        "runtime": {
+          "stock-quote-alert.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "stock-quote-alert/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

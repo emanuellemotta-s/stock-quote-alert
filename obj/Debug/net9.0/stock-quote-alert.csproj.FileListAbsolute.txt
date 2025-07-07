@@ -1,0 +1,14 @@
+C:\Users\ISABELLA MOTTA\ProjetoCS\stock-quote-alert\bin\Debug\net9.0\stock-quote-alert.exe
+C:\Users\ISABELLA MOTTA\ProjetoCS\stock-quote-alert\bin\Debug\net9.0\stock-quote-alert.deps.json
+C:\Users\ISABELLA MOTTA\ProjetoCS\stock-quote-alert\bin\Debug\net9.0\stock-quote-alert.runtimeconfig.json
+C:\Users\ISABELLA MOTTA\ProjetoCS\stock-quote-alert\bin\Debug\net9.0\stock-quote-alert.dll
+C:\Users\ISABELLA MOTTA\ProjetoCS\stock-quote-alert\bin\Debug\net9.0\stock-quote-alert.pdb
+C:\Users\ISABELLA MOTTA\ProjetoCS\stock-quote-alert\obj\Debug\net9.0\stock-quote-alert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISABELLA MOTTA\ProjetoCS\stock-quote-alert\obj\Debug\net9.0\stock-quote-alert.AssemblyInfoInputs.cache
+C:\Users\ISABELLA MOTTA\ProjetoCS\stock-quote-alert\obj\Debug\net9.0\stock-quote-alert.AssemblyInfo.cs
+C:\Users\ISABELLA MOTTA\ProjetoCS\stock-quote-alert\obj\Debug\net9.0\stock-quote-alert.csproj.CoreCompileInputs.cache
+C:\Users\ISABELLA MOTTA\ProjetoCS\stock-quote-alert\obj\Debug\net9.0\stock-quote-alert.dll
+C:\Users\ISABELLA MOTTA\ProjetoCS\stock-quote-alert\obj\Debug\net9.0\refint\stock-quote-alert.dll
+C:\Users\ISABELLA MOTTA\ProjetoCS\stock-quote-alert\obj\Debug\net9.0\stock-quote-alert.pdb
+C:\Users\ISABELLA MOTTA\ProjetoCS\stock-quote-alert\obj\Debug\net9.0\stock-quote-alert.genruntimeconfig.cache
+C:\Users\ISABELLA MOTTA\ProjetoCS\stock-quote-alert\obj\Debug\net9.0\ref\stock-quote-alert.dll
